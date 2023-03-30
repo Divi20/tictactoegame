@@ -10,9 +10,13 @@ React 18
 ## Instructions to run app
 
 git clone https://github.com/Divi20/tictactoegame.git
+<br />
 cd tictactoegame
+<br />
 npm i
+<br />
 npm run dev
+
 
 ## Screenshots
 
