@@ -8,7 +8,7 @@ A two player game where first player will be assigned X symbol and next player w
 
 Sart Game
 
-![App Screenshot](tic-tac-toe-game/src/assets/Screenshot 2023-03-30 at 8.15.43 PM.png)
+<img src="src/assets/Screenshot 2023-03-30 at 8.15.43 PM.jpg">
 
 Game Started
 
