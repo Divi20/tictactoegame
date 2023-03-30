@@ -1,0 +1,15 @@
+.square-style{
+    height: 70px;
+    width: 70px;
+    background-color: azure;
+    text-align: center;
+    border: 1px solid black;
+    font-weight: bold;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+}
+
+  

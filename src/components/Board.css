@@ -1,0 +1,36 @@
+.board-heigth{
+    height: 150px;
+    width: 150px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.board-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.reset-button{
+    margin: 5%;
+    padding : 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: #5f135f;
+    color: #fff;
+}
+.card{
+    padding: 10px;
+    font-size: 14px;
+    background-color: #fff;
+    color: black;
+    text-align: center;
+}
+.gamesLog-heading{
+    text-align: center;
+}
