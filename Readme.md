@@ -3,6 +3,17 @@
 
 A two player game where first player will be assigned X symbol and next player will be assigned O
 
+## Requirement
+
+Node 14
+React 18
+## Instructions to run app
+
+git clone https://github.com/Divi20/tictactoegame.git
+cd tictactoegame
+npm i
+npm run dev
+
 ## Screenshots
 
 Sart Game
